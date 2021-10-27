@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Расписание IT-CUBE</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="tab_text_class">Кабинет</string>
+    <string name="tab_text_teacher">Учитель</string>
+    <string name="tab_text_lesson">Предмет</string>
+
+    <string name="tab_text_monday">Пн.</string>
+    <string name="tab_text_tuesday">Вт.</string>
+    <string name="tab_text_wednesday">Ср.</string>
+    <string name="tab_text_thursday">Чт.</string>
+    <string name="tab_text_friday">Пт.</string>
+    <string name="tab_text_saturday">Сб.</string>
+
+    <string name="item_text_time">Время начала:\u0020</string>
+    <string name="item_text_class_">Кабинет:\u0020</string>
+
+    <string name="get_version">Получение версии БД</string>
+    <string name="no_connection_load_db">Отсутствует соединение, БД была загружена из памяти устройства</string>
+    <string name="no_lesson">Нет занятий</string>
+    <string name="loading">Загрузка БД</string>
+    <string name="no_connection">Нет соединения</string>
+    <string name="no_connection_to_get_all">Нет соединения и БД нет в памяти устройства</string>
+
+    <string name="full_url">gs://timetable-5260e.appspot.com/</string>
+
+
+    <!-- <string name="section_format">Hello World from section: %1$d</string>-->
+</resources>
